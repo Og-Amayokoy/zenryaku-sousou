@@ -1,5 +1,5 @@
 /* 
-To use "<script src="
+To use "<script src=https://og-amayokoy.github.io/zenryaku-sousou/main.js" type="text/javascript">, you can get.
 
 */
 
