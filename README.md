@@ -4,7 +4,7 @@ Bottom of show and hide "Zenryaku&amp;Sousou" It means greating. But, some time 
 See [Demo](https://og-amayokoy.github.io/zenryaku-sousou/index.html).
 
 # How to use 
-1. Add html file this ```<script src=https://og-amayokoy.github.io/zenryaku-sousou/main.js" type="text/javascript">```.  
+1. Add html file this ```<script src="https://og-amayokoy.github.io/zenryaku-sousou/main.js" type="text/javascript"></script>```.  
 
 2. Add Zenryaku Sousou switch bottm to html.  ```<input type="checkbox" name="zensou-bottom">```
 
