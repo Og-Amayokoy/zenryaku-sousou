@@ -1,7 +1,7 @@
 # Zenryaku-Sousou(前略&草々)
 Bottom of show and hide "Zenryaku&amp;Sousou" It means greating. But, some time redundancy.
 
-
+See [this](https://og-amayokoy.github.io/zenryaku-sousou/index.html)
 
 # How to use 
 1. Add html file this ```<script src=https://og-amayokoy.github.io/zenryaku-sousou/main.js" type="text/javascript">```.  
