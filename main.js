@@ -10,7 +10,7 @@ $('input[name="zensou-bottom"]').change(function() {
 }
 
           */                           
-                                    
+                   
  fucnction ZensouMode() {
 var zensouModeValue =  document.zensou_bottom_form.zensou_bottom.checked;
 
