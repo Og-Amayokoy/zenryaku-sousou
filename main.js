@@ -12,9 +12,9 @@ function zensou_clicked() {
 
 
     if(zensou_bottom.checked == true){
-        Text.style.display="none";
+        none_and_block.style.display="none";
 
     }else{
-        text.style.display="block";
+        none_and_block.style.display="block";
     }
 }
