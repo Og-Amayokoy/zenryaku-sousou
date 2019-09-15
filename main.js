@@ -8,13 +8,13 @@ Just add your html  tag
 function zensou_clicked() {
     var zensou_bottom = docment.getElementsById("zensou_bottom");
 
-    var none_and_block = document.getElementsByClassName("zensou")
+    var zensou = document.getElementsByClassName("zensou")
 
 
     if(zensou_bottom.checked == true){
-        none_and_block.style.display="none";
+        zensou.style.display="none";
 
     }else{
-        none_and_block.style.display="block";
+        zensou.style.display="block";
     }
 }
