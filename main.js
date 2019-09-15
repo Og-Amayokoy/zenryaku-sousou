@@ -4,7 +4,7 @@ Just add your html  tag
 
 */
 
-
+/*
 function zensou_clicked() {
     var zensou_bottom = docment.getElementsById("zensou_bottom");
 
@@ -18,3 +18,5 @@ function zensou_clicked() {
         zensou.style.display="block";
     }
 }
+
+*/
