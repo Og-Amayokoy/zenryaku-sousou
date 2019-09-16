@@ -10,9 +10,9 @@ console.log ("js is runned")
 function myfucntion() {
     var zensou_area = document.getElementById("zensou_area");
    /* var aaa = document.getElementsByClassName("zensou_area");*/
-   var checkbox=document.getElementById("zensou_bottom")
+   var zensou_bottom=document.getElementById("zensou_bottom")
     console.log ("myfunction  is runned");
-    if(checkbox.checked == true){
+    if(zensou_bottom.checked == true){
         zensou_area.style.display="block";
         console.log ("block")
     } else {
