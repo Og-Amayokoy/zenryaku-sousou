@@ -8,15 +8,15 @@ console.log ("js is runned")
 
 
 function myfucntion() {
-    var aaa = document.getElementById("text");
+    var zensou_area = document.getElementById("text");
    /* var aaa = document.getElementsByClassName("zensou_area");*/
    var checkbox=document.getElementById("mycheck")
     console.log ("myfunction  is runned");
     if(checkbox.checked == true){
-        aaa.style.display="block";
+        zensou_area.style.display="block";
         console.log ("block")
     } else {
-        aaa.style.display="none";
+        zensou_area.style.display="none";
         console.log ("none")
     }
 }
