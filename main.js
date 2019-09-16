@@ -4,19 +4,19 @@ Just add your html  tag
 
 */
 
-/*
-function zensou_clicked() {
-    var zensou_bottom = docment.getElementsById("zensou_bottom");
-
-    var zensou = document.getElementsByClassName("zensou")
+console.log ("js is runned")
 
 
-    if(zensou_bottom.checked == true){
-        zensou.style.display="none";
-
-    }else{
-        zensou.style.display="block";
+function myfucntion() {
+    var aaa = document.getElementById("text");
+   /* var aaa = document.getElementsByClassName("zensou_area");*/
+   var checkbox=document.getElementById("mycheck")
+    console.log ("myfunction  is runned");
+    if(checkbox.checked == true){
+        aaa.style.display="block";
+        console.log ("block")
+    } else {
+        aaa.style.display="none";
+        console.log ("none")
     }
 }
-
-*/
