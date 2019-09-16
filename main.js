@@ -8,7 +8,7 @@ console.log ("js is runned")
 
 
 function myfucntion() {
-    var zensou_area = document.getElementById("text");
+    var zensou_area = document.getElementById("zensou_area");
    /* var aaa = document.getElementsByClassName("zensou_area");*/
    var checkbox=document.getElementById("mycheck")
     console.log ("myfunction  is runned");
